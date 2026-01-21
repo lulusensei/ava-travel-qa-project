@@ -1,19 +1,18 @@
-# Context – AVA Travel QA Project
+# Risk Analysis – AVA Travel
 
-## Risk-Based Testing Approach
-
-### High Risk Areas
+## High-Risk Areas
 - User authentication
-- Core navigation
-- Travel planning features
+- Navigation between screens
 - Data persistence
-- App stability (crashes)
+- Network dependency
+- Platform-specific behavior
 
-### Medium Risk Areas
-- UI consistency
-- Error handling
-- Notifications
+## Risk Classification
 
-### Low Risk Areas
-- Static content
-- Informational screens
+| Feature | Risk Level | Reason |
+|------|-----------|--------|
+| Login / Sign-up | High | Blocks app usage |
+| Navigation | High | Core UX |
+| Notifications | Medium | User engagement |
+| Profile management | Medium | Data integrity |
+| Settings | Low | Secondary feature |
