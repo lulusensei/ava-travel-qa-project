@@ -1,19 +1,22 @@
-# Context – AVA Travel QA Project
+# Test Plan – AVA Travel
 
 ## Test Strategy
-- Manual testing
+- Manual functional testing
 - Exploratory testing
-- Regression testing on main flows
+- Risk-based prioritization
 
 ## Test Types
 - Functional testing
-- Usability testing
-- Smoke testing
+- Regression testing
+- Exploratory testing
+
+## Test Environment
+- Real devices
 
 ## Entry Criteria
-- Application installed
-- User account available
+- App installed
+- Stable internet connection
 
 ## Exit Criteria
-- All critical test cases executed
-- Major defects documented
+- Critical test cases executed
+- Major bugs reported
