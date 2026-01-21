@@ -1,17 +1,26 @@
-# Context – AVA Travel QA Project
+# Application Context – AVA Travel
 
-## Application Overview
-AVA Travel is a mobile application designed to help users plan and manage their travel experiences.
+## Application Description
+AVA Travel is a mobile application designed to help users plan and manage their travel experience.
+
+## Target Users
+- Travelers
+- Frequent mobile users
 
 ## Platforms Tested
-- Android
-- iOS
+- Android: (device, OS version)
+- iOS: (device, OS version)
 
-## Test Objectives
-- Validate core user flows
-- Detect functional defects
-- Evaluate basic usability and stability
+## App Version
+- Android version:
+- iOS version:
 
-## Test Environment
-- Devices: Android smartphone, iPhone
-- Network: Wi-Fi, mobile data
+## Testing Objectives
+- Validate core functionalities
+- Identify critical defects
+- Evaluate basic user experience
+
+## Constraints
+- Black-box testing
+- No access to source code
+- Limited time and devices
