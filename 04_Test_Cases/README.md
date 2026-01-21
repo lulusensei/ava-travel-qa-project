@@ -1,17 +1,23 @@
-# Context – AVA Travel QA Project
+# Test Cases – AVA Travel
 
-## Test Cases Overview
+## TC-01 – App Launch
+**Steps**
+1. Launch the application
 
-Test cases are designed to validate core user journeys.
+**Expected Result**
+- Application opens without crash
 
-### Example Test Case
+## TC-02 – Navigation
+**Steps**
+1. Open app
+2. Navigate through main screens
 
-ID: TC-01  
-Title: User login with valid credentials  
-Steps:
-1. Open the application
-2. Enter valid email and password
-3. Tap on login button
+**Expected Result**
+- All screens load correctly
 
-Expected Result:
-- User is successfully logged in
+## TC-03 – Invalid User Input
+**Steps**
+1. Enter invalid data where applicable
+
+**Expected Result**
+- Error message is displayed
