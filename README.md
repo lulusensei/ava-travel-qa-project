@@ -11,14 +11,13 @@ This is a personal Quality Assurance project focused on manual testing of the AV
 
 ## Scope
 - Platforms: Android, iOS
-- Testing type: Manual testing, exploratory testing
+- Testing type: Manual testing, exploratory testing, bug reporting, QA documentation
 - Out of scope: Backend, security penetration testing
 
 ## Tools Used
 - GitHub
 - Mobile devices (Android / iOS)
 - Screenshots & screen recordings
-- Manual test documentation
 
 ## Project Structure
 - Context definition
@@ -28,3 +27,6 @@ This is a personal Quality Assurance project focused on manual testing of the AV
 - Test execution evidence
 - Bug reports
 - Final recommendations
+
+## Disclaimer
+This is a personal QA project conducted for learning and portfolio purposes.
